@@ -1,0 +1,10 @@
+Image,Regions,Thresholds,Total Variance,Processing Time (s)
+Project 1/basket_balls.bmp,2,[187],327.73814052980197,0.88
+Project 1/basket_balls.bmp,3,"[106, 194]",91.39958050370001,0.88
+Project 1/basket_balls.bmp,4,"[99, 133, 199]",55.60880394418865,0.88
+Project 1/data13.bmp,2,[192],583.9327197497314,0.28
+Project 1/data13.bmp,3,"[119, 216]",157.39084497197746,0.28
+Project 1/data13.bmp,4,"[76, 154, 221]",82.6103154912659,0.28
+Project 1/tiger1.bmp,2,[108],1295.635163803284,0.39
+Project 1/tiger1.bmp,3,"[66, 152]",568.2176206291681,0.39
+Project 1/tiger1.bmp,4,"[48, 109, 177]",321.1087978231966,0.39
